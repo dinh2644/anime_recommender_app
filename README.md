@@ -2,6 +2,7 @@
 A recommender app that suggests anime shows/movies from users' input using an open framework called "Streamlit"
 
 Detailed explanation:
+
 User has a dropdown/search box option where they can pick or search any anime titles from the “Anime-Planet” database. After clicking the recommend button, the screen
 will display a list of 5 shows related to the user’s input. In short, this program recommends shows or movies based on collaborative filtering and the theme is, in this
 case, Anime shows/movies. So the goal of the program is to provide the user an outcome of shows or movies that have similar synopsis, titles, or tags from their favorite
