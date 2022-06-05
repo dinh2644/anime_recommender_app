@@ -1,11 +1,7 @@
-#import numpy as np
 import pandas as pd
-import os
 
-for dirname, _, filenames in os.walk('/home/user1/Documents/py scripts/input'):
-    for filename in filenames:
-        print(os.path.join(dirname, filename))
-        
+
+
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
