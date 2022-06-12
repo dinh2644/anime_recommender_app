@@ -1,4 +1,4 @@
-# anime_recommender_app
+Project for CSP 15000 | Recommender system for anime 
 
 https://share.streamlit.io/dinh2644/anime_recommender_app/main/recommender_app.py
 
